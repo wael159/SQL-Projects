@@ -1,0 +1,22 @@
+# Ignore IDE/project settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+.venv/
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
